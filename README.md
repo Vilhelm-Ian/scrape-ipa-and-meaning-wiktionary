@@ -41,3 +41,6 @@ console.log(err)
 get()
 </script>
 ```
+
+![image](https://user-images.githubusercontent.com/81630959/193410174-87d4ad11-aeb0-46fa-b52a-c5b2ce4a5726.png)
+
